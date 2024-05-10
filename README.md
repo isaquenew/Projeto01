@@ -1,2 +1,3 @@
-# Projeto01
-repositório criado para um miniprojeto para aprendizado
+# Projeto 01
+Repositório criado para um miniprojeto com o propósito de aprendizagem.
+
